@@ -1,4 +1,2 @@
 
-a <- 3
-
-stra <- str(a)
+head(raw_data)
